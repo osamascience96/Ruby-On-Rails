@@ -14,4 +14,7 @@ def [function_name]
 end
 
 # Last End Page
-19
+24
+
+# Chapters Completed
+1 out of 10
